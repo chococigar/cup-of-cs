@@ -23,7 +23,7 @@ Easy sips of stuffs a developer should know.
 
 ## Guide for contributors
 
-## Reference for choosing topics
+## References for choosing topics
 * [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [Teach yourself CS](https://teachyourselfcs.com/)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
