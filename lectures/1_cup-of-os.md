@@ -30,13 +30,14 @@ We needed things like:
 Also there were different computers, so we needed some compatibility / editability in OS.
 
 ### Multics and Unix
-* Multics
+* Multics (1969)
     * Created by AT&T's Bell.
-    * One of the earliest multiprocessor systems. First major OS that is secure. Commercial success. But there was a drawback:
-    > "Overengineered... half of the code was error recovery." - Dennis, working in Multics
+    * Most influential early time-sharing OS with multiprocessor systems. First major OS that is secure. Commercial success. But there was a drawback:
+    > "It was over-ngineered... there was just too much of it." - Dennis
+    > "Easily half of the code I was writing was error recovery code." - Ken 
 
 * Unix
-    * Ken Thompson & Dennis Ritchie, frustrated in working in Multics, created Unix.
+    * Created by Ken Thompson & Dennis Ritchie, frustrated in working in Multics.
         * Ken Thompson: 
             * Made Go lang
             * Made UTF8
@@ -47,11 +48,14 @@ Also there were different computers, so we needed some compatibility / editabili
         * Core (kernel❤️): memory managing, multitasking
         * Libraries / programs
     * If it crashes, we’ll just show kernel panic & tell user to reboot ¯\_(ツ)_/¯
-        → Unix runs cheaper, available on simple hardware.
+        → This simplicity allowed Unix to run cheaper, making it available on simple hardware.
         
 ### Windows
-* Windows
+* MS DOS/Disc Operating System (1981)
     * Created by Microsoft
+    * One of the most popular OS for early home computers.  PC's started becoming cheaper as it became simpler, and a simple & light OS like MS DOS was suitable.
+    * Lacked multitasking, memory protection
+* Windows
     * Security (historically) criticized by customers
         * 1990s: lacked memory protection, Blue screen of death!
 
@@ -61,3 +65,4 @@ Also there were different computers, so we needed some compatibility / editabili
 ## History of OS
 
 ## References
+* [Operating Systems: Crash Course Computer Science #18](https://youtu.be/26QPDBe-NB8)
