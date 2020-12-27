@@ -4,7 +4,7 @@ Easy sips of stuffs a developer should know.
 ## Logs
 | Date     |Topic|Full log|Presentation|Author      |
 |----------|-----|--------|------------|------------|
-|2020/12/27|✨cup-of-OS✨|[full lecture](https://github.com/chococigar/cup-of-cs/blob/main/lectures/1_cup-of-os.md)|[presentation](https://docs.google.com/presentation/d/1ya2-NfS2mJQ-V4qFdMmBMXSjMTHaSbZGE-x8RvJ-wiM/edit?usp=sharing)|@chococigar|
+|2020/12/27|✨cup-of-OS✨|[full lecture](https://github.com/chococigar/cup-of-cs/blob/main/lectures/1_cup-of-os.md)|[presentation](https://docs.google.com/presentation/d/1ya2-NfS2mJQ-V4qFdMmBMXSjMTHaSbZGE-x8RvJ-wiM/edit?usp=sharing)|[@chococigar](https://github.com/chococigar)|
 |   |   |   |   |   |
 
 ## Why we're doing this
