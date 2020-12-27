@@ -18,6 +18,7 @@ Easy sips of stuffs a developer should know.
 * Be casual and fun. As a rule, we include [🤪emojis](https://emojipedia.org/) in all our titles.
 * Everyone in cup-of-cs must present a topic on a round robin order.
     * The presenter should announce their topic/agenda a few days in advance, and ask the team for any questions.
+    * Shoot for 30- minutes on the presentation. Save 10+ minutes for Q/A.
     * At the end of the presention, get feedback and pick the next presenter.
 * Hold cup-of-cs periodically. (suggested: weekly, biweekly)
 
