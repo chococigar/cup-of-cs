@@ -25,6 +25,6 @@ Easy sips of stuffs a developer should know.
 
 
 ## Contributors
-* Hyunjong Lee (@hyunjongL)
-* Jiyoun Ha (@chococigar)
-* Kyeongyu Lee (@kyungyunlee)
+* Hyunjong Lee ([@hyunjongL](http://github.com/hyunjongL))
+* Jiyoun Ha ([@chococigar](https://github.com/chococigar))
+* Kyungyun Lee ([@kyungyunlee](https://github.com/kyungyunlee))
