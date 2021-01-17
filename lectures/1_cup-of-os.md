@@ -29,6 +29,8 @@ We needed things like:
 
 Also there were different computers, so we needed some compatibility / editability in OS.
 
+![history_of_os.png](../img/history_of_os.png)
+
 ### Multics and Unix
 * Multics (1969)
     * Created by AT&T's Bell.
