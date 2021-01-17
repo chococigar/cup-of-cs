@@ -38,6 +38,7 @@ Also there were different computers, so we needed some compatibility / editabili
 ### Mainframes and Microcomputers
 
 ### Multics and Unix
+#### Multics to Unix
 * Multics (1969)
     * Created by AT&T's Bell.
     * Most influential early time-sharing OS with multiprocessor systems. First major OS that is secure. Commercial success. But there was a drawback:
@@ -58,6 +59,17 @@ Also there were different computers, so we needed some compatibility / editabili
     * If it crashes, we’ll just show kernel panic & tell user to reboot ¯\_(ツ)_/¯
         → This simplicity allowed Unix to run cheaper, making it available on simple hardware.
         
+#### Unix versions: BSD is edu/hobbylist, Sys-V is enterprise version.
+ * BSD (Berkely Software Distribution), by UC Berkeley / free / hobbyist / based on Research Unix. BSD is a complete system (kernel, drivers, utilities, etc) whereas Linux only has kernels, drivers, and libs.
+    * 1982: Sun Microsystems creates SunOS
+    * 1989: NeXT creates NEXTSTEP, an object-oriented, multitasking OS based on Mach with dock and app store.
+        * 2000: Apple creates Darwin OS, which will later become Mac OS.
+    * 1993: FreeBSD, which has robust network and has permissive BSD licensing.
+ * System V
+    * 1984: HP creates hp UX for servers, which runs on HP devices.
+    * 1986: IBM creates AIX, which is a mix of BSD and System V.
+    * 1992: Sun Microsystems creates Solaris, which is System V version of Sun OS.
+ 
 ### Linux
 
 #### Notes
