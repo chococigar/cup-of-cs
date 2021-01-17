@@ -60,6 +60,26 @@ Also there were different computers, so we needed some compatibility / editabili
         
 ### Linux
 
+#### Notes
+* GNU is a set of rules with tools to make free unix-like OS
+* Linux is a kernel that can be used with GNU
+* GNU/Linux is the OS commonly referred as Linux
+
+There are many variants in Linux, whose importance can be highly arguable. We are covering only the most significant distributions.
+* 1987: Andrew S. Tanenbaum creates Minix, a unix-like OS for educational purposes.
+* 1993: Linus Torvalds creates Linux, a stable, secure OS. It was inspired from Minix but did not have Minix code. [Linux PSA email from Linus to Minix community](https://images.techhive.com/images/article/2016/08/linus-original-email-1-100678574-large.jpg)
+* 1993: Debian - stable, secure / compatible / community based 100%
+    * 2004: Ubuntu - stable, reliable / popular / intuitive UI
+    * 2006: Linux Mint - modern, fast / media support
+* 1995: Red hat Linux - stable / corporate version 
+    * 2003: Fedora - quick releases/ community driven
+    * 2004: CentOS - free distribution for enterprises / RedHat without cost & support
+* 2000: Gentoo Linux - for experts / portage package manager & dependencies / faster
+    * 2011: chromeOS by Google - simple, fast / runs on Chromebooks / browser focused
+* 2002: archlinux - minimalist / customizable / not really user-friendly
+* 2005: openSUSE - for devs and sysadmins / community driven
+
+
 ### Apple (and Xerox)
 * 1973: Xerox announces [Xerox Alto](https://history-computer.com/xerox-alto-complete-history-of-the-xerox-alto-computer/), the first OS based on GUI.
 * 1979: Steve Jobs [visit Xerox PARC](https://web.stanford.edu/dept/SUL/sites/mac/parc.html), which inspired the potential of a GUI.
