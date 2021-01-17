@@ -116,3 +116,5 @@ There are many variants in Linux, whose importance can be highly arguable. We ar
 
 ## References
 * [Operating Systems: Crash Course Computer Science #18](https://youtu.be/26QPDBe-NB8)
+* [r/linux comments on my diagram](https://www.reddit.com/r/linux/comments/kporah/i_made_a_simple_diagram_on_history_of_os_feel/)
+* [r/compsci comments on my diagram](https://www.reddit.com/r/compsci/comments/kposlx/i_made_a_simple_diagram_on_history_of_os_feel/)
