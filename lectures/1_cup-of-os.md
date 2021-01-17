@@ -89,13 +89,17 @@ There are many variants in Linux, whose importance can be highly arguable. We ar
 * 2007: Apple announces iOS, a mobile OS for iPhones based on Mac OS.
 
 ### Windows
-* MS DOS/Disc Operating System (1981)
-    * Created by Microsoft
-    * One of the most popular OS for early home computers.  PC's started becoming cheaper as it became simpler, and a simple & light OS like MS DOS was suitable.
-    * Lacked multitasking, memory protection
-* Windows
-    * Security (historically) criticized by customers
-        * 1990s: lacked memory protection, Blue screen of death!
+* MS DOS line
+    * 1974: CP/M created by Gary Kindall (Father of PC OS) & Digital Research. CP/M, which stands for Control Prgoram / Monitor, is OS for 8 bit PC. 
+    * 1981: MS DOS created by Microsoft, which is very similar to CP/M. IT is a popular OS for hope PCs on single disk. Since PC's started becoming cheaper & simpler, a simple & light OS like MS DOS was suitable. However, it lacked multitasking and memory protection
+* Windows NT line
+    * 1977: VMS created OpenVMS(VMS), which is multi-user & multi-procesing VM OS.
+    * 1993: Microsoft Windows NT was inspired from VMS, which is the first 32-bit Windows.
+        * Security (historically) criticized by customers
+            * 1990s: lacked memory protection, Blue screen of death!
+    * 2001: Microsoft announces Windows XP, which has better UI and has home & professional versions.
+    * 2015: Microsoft announces Windows 10, which has fast startup and is more secure. It also announces Microsoft edge browser.
+       
 
 
 ## References
