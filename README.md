@@ -7,7 +7,7 @@ Easy sips of stuffs a developer should know.
 |2020/12/27|✨cup-of-OS✨🌳|[full lecture](https://github.com/chococigar/cup-of-cs/blob/main/lectures/1_cup-of-os.md)|[presentation](https://docs.google.com/presentation/d/1ya2-NfS2mJQ-V4qFdMmBMXSjMTHaSbZGE-x8RvJ-wiM/edit?usp=sharing)|[@chococigar](https://github.com/chococigar)|
 |2021/01/03|✨cup-of-git✨🐙|   |[presentation](https://docs.google.com/presentation/d/1-7wc_HSzrpNNOqcot3aK6sTF74HHGPgcyVEyPOSi__8/edit?usp=sharing)|[@kyungyunlee](https://github.com/kyungyunlee)|
 |2021/01/17|✨cup-of-distributed-systems✨🌐|            |[presentation](https://docs.google.com/presentation/d/1TmyfFXnzr_6p1GJdmfh4JIPK06pKf1zJ3eyNPk555pY/edit?usp=sharing)| [@hyunjongL](http://github.com/hyunjongL) |
-|2021/01/24|✨cup-of-cs-lang✨📚|              |[@chococigar](https://github.com/chococigar)|
+|2021/01/24|✨cup-of-cs-lang✨📚|               |    |[@chococigar](https://github.com/chococigar)|
 |          |    |       |             |              |
 
 ## Why we're doing this
