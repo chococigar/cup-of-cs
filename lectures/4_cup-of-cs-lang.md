@@ -12,7 +12,7 @@ Presentation [here](https://docs.google.com/presentation/d/1RVt7Ytw8Bt5KTr57FC7f
 3. Q&A
     - Answering previously asked questions
 
-## (Discussion) Languages we've came across, and their use-cases/properties
+## (Discussion) Languages we've came across and their common use-cases/properties
 * Python
     * personal use: [CS101](http://cs101.kaist.ac.kr/), algorithms, ML, data crawling, general code
     * 
@@ -25,26 +25,28 @@ Presentation [here](https://docs.google.com/presentation/d/1RVt7Ytw8Bt5KTr57FC7f
 * C
     * personal use: [Pintos](https://web.stanford.edu/class/cs140/projects/pintos/pintos.pdf)
 * Racket
-    * personal use
+    * personal use: [Programming Languages course](https://plrg.kaist.ac.kr/lectures/cs320-spring-2020)
 * Assembly
-    * personal use
+    * personal use: [System Programming course](http://calab.kaist.ac.kr:8080/~jhuh/teaching.html)
 * Bash
-    * personal use
+    * personal use: For automating shell commands
 * SQL
-    * personal use
-* HTML, CSS
-    * personal use
+    * personal use: Databases
 * Rust
-    * personal use
+    * personal use:
 * Go
-    * personal use
+    * personal use: 
 * Kotlin
-    * personal use
+    * personal use: Android app
 * Typescript
-    * personal use
+    * personal use: 
 * Dart
-    * personal use
-
+    * personal use: For using Flutter (frontend-focused use case)
+* HTML, CSS
+    * personal use: Web, though often debatable
+* Markdown
+    * personal use: [here](https://github.com/chococigar/cup-of-cs/blob/main/lectures/4_cup-of-cs-lang.md)
+    
 ![git_the_princess.jpg](../img/git_the_princess.jpg)
 
 
