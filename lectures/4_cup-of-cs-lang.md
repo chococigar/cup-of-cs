@@ -45,7 +45,7 @@ Presentation [here](https://docs.google.com/presentation/d/1RVt7Ytw8Bt5KTr57FC7f
 * Dart
     * personal use
 
-![git_the_princess.png](../img/git_the_princess.png)
+![git_the_princess.jpg](../img/git_the_princess.jpg)
 
 
 ## 5 Major components of a CS language
