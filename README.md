@@ -8,6 +8,7 @@ Easy sips of stuffs a developer should know.
 |2021/01/03|✨cup-of-git✨🐙|   |[presentation](https://docs.google.com/presentation/d/1-7wc_HSzrpNNOqcot3aK6sTF74HHGPgcyVEyPOSi__8/edit?usp=sharing)|[@kyungyunlee](https://github.com/kyungyunlee)|
 |2021/01/17|✨cup-of-distributed-systems✨🌐|            |[presentation](https://docs.google.com/presentation/d/1TmyfFXnzr_6p1GJdmfh4JIPK06pKf1zJ3eyNPk555pY/edit?usp=sharing)| [@hyunjongL](http://github.com/hyunjongL) |
 |2021/01/24|✨cup-of-cs-lang✨📚|[full lecture](https://github.com/chococigar/cup-of-cs/blob/main/lectures/4_cup-of-cs-lang.md) |[presentation](https://docs.google.com/presentation/d/1RVt7Ytw8Bt5KTr57FC7f98kHuGEQrbvHDeGzXqiQXLo/edit?usp=sharing)|[@chococigar](https://github.com/chococigar)|
+|2021/01/31|✨cup o’CS_5: arm🌰✨| |[presentation](https://docs.google.com/presentation/d/1tyjcIKm3L_xdkjfIuCHWcruoNn0rhefZunncKkhxwEk/edit?usp=sharing)|[@Aningaaq](https://github.com/Aningaaq)|
 |          |    |       |             |              |
 
 
