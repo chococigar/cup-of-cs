@@ -11,7 +11,7 @@ Today's session focuses more on the business and history of CPU Architectures
 # [Survey] Which devices do you own?
 What are their cpu architectures?
 
-![%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled.png](%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled.png)
+![cup-of-cs-arm/Untitled.png](cup-of-cs-arm/Untitled.png)
 
 - TL;DR : All phones and tablets owned by cup o' cs members are ARM, Laptops are all Intel, 1 ARM desktop and AMD desktop.
 
@@ -25,11 +25,11 @@ What are their cpu architectures?
 
 📌 AMD used to manufacture chips, but now outsources manufacturing to other companies.
 
-![%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%201.png](%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%201.png)
+![cup-of-cs-arm/Untitled%201.png](cup-of-cs-arm/Untitled%201.png)
 
 ## List of CPU manufacturers
 
-![%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%202.png](%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%202.png)
+![cup-of-cs-arm/Untitled%202.png](cup-of-cs-arm/Untitled%202.png)
 
 Source: [https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers](https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers)
 
@@ -66,7 +66,7 @@ Now known collectively as x86-64 or x64
 
 ## Q: Why aren't there Intel chips in mobile devices?
 
-![%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%203.png](%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%203.png)
+![cup-of-cs-arm/Untitled%203.png](cup-of-cs-arm/Untitled%203.png)
 
 Source: [https://thenextweb.com/apple/2011/10/26/steve-jobs-intels-inflexibility-led-to-creation-of-a4-a5-processors/](https://thenextweb.com/apple/2011/10/26/steve-jobs-intels-inflexibility-led-to-creation-of-a4-a5-processors/)
 
@@ -79,7 +79,7 @@ Source: [https://thenextweb.com/apple/2011/10/26/steve-jobs-intels-inflexibility
 
 ### Intel did try though...
 
-![%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%204.png](%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%204.png)
+![cup-of-cs-arm/Untitled%204.png](cup-of-cs-arm/Untitled%204.png)
 
 Source: [https://www.extremetech.com/computing/227816-how-intel-lost-the-mobile-market-part-2-the-rise-and-neglect-of-atom](https://www.extremetech.com/computing/227816-how-intel-lost-the-mobile-market-part-2-the-rise-and-neglect-of-atom)
 
@@ -90,7 +90,7 @@ Source: [https://www.extremetech.com/computing/227816-how-intel-lost-the-mobile-
 - But couldn’t catch up to its competitors
 - Intel discontinues Atom in 2016
 
-![%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%205.png](%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%205.png)
+![cup-of-cs-arm/Untitled%205.png](cup-of-cs-arm/Untitled%205.png)
 
 Source: [https://www.techtimes.com/articles/155250/20160502/intel-drops-atom-processors-what-this-means-for-the-surface-phone.htm](https://www.techtimes.com/articles/155250/20160502/intel-drops-atom-processors-what-this-means-for-the-surface-phone.htm)
 
@@ -125,7 +125,7 @@ Reference : [https://youtu.be/AADZo73yrq4](https://youtu.be/AADZo73yrq4)
 
 ## ARM Sales rising exponentially ⤴️
 
-![%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%206.png](%E2%9C%A8cup-of-cs-arm%F0%9F%8C%B0%E2%9C%A8%20ae16ad7dff564c26a1ae852fad6b428f/Untitled%206.png)
+![cup-of-cs-arm/Untitled%206.png](cup-of-cs-arm/Untitled%206.png)
 
 Source: [https://en.wikipedia.org/wiki/Arm_Ltd.#Sales_and_market_share](https://en.wikipedia.org/wiki/Arm_Ltd.#Sales_and_market_share)
 
