@@ -13,6 +13,7 @@ Easy sips of stuffs a developer should know.
 | 2021/02/28 | ✨cup-of-web-security✨🔐 | | [presentation](https://docs.google.com/presentation/d/1RVt7Ytw8Bt5KTr57FC7f98kHuGEQrbvHDeGzXqiQXLo/edit?usp=sharing) | [@chococigar](https://github.com/chococigar) |
 | 2021/03/07 | ✨cup-of-accessibility✨🔍 | | [presentation](https://docs.google.com/presentation/d/1VX0C22Zz-Fn4DwjSUJeqGFkdzR5ldR3R0u0EIKzOEOw/edit?usp=sharing) | [@hyunjongL](http://github.com/hyunjongL) |
 | 2021/03/14 | ✨cup-of-M1✨💻 | | [presentation](https://docs.google.com/presentation/d/1EGxxnN1hNZcaa0nYuN8QMs2JXYNmujlA3z_89Q4iRyo/edit?usp=sharing) | [@Aningaaq](https://github.com/Aningaaq) |
+| 2021/03/28 | ✨cup-of-DeepFakes✨🔁 | | [presentation](https://docs.google.com/presentation/d/1XKKtKxf3ZaLqzyxlqjNJtyDHiVEkoYvRgFxjBjDgkTg/edit?usp=sharing) | [@hschoi1](https://github.com/hschoi1) |
 
 
 ## Why we're doing this
