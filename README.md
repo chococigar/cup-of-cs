@@ -11,7 +11,7 @@ Easy sips of stuffs a developer should know.
 | 2021/01/31 | ✨cup-of-arm🌰✨            | [full lecture](https://github.com/chococigar/cup-of-cs/blob/lecture/05-arm/lectures/5_cup-of-cs-arm/cup-of-cs-arm.md)| [presentation](https://docs.google.com/presentation/d/1tyjcIKm3L_xdkjfIuCHWcruoNn0rhefZunncKkhxwEk/edit?usp=sharing) | [@Aningaaq](https://github.com/Aningaaq)       |
 | 2021/02/07 | ✨cup-of-ssh 🕵️‍♂️            | [post](https://kyungyunlee.github.io/blog/ssh)                                                 | [presentation](https://docs.google.com/presentation/d/1F68RsPoWv8AF1-lVf0YmrDp1pWrLjR7I4fzpmushYhE/edit?usp=sharing) | [@kyungyunlee](https://github.com/kyungyunlee) |
 | 2021/02/28 | ✨cup-of-web-security 🔐 | | [presentation](https://docs.google.com/presentation/d/1RVt7Ytw8Bt5KTr57FC7f98kHuGEQrbvHDeGzXqiQXLo/edit?usp=sharing) | [@chococigar](https://github.com/chococigar) |
-| 2021/03/07 | ✨cup-of-accessibility 🔍 | | [presentation](https://docs.google.com/presentation/d/1VX0C22Zz-Fn4DwjSUJeqGFkdzR5ldR3R0u0EIKzOEOw/edit?usp=sharing) | [@hyunjongL](http://github.com/hyunjongL |
+| 2021/03/07 | ✨cup-of-accessibility 🔍 | | [presentation](https://docs.google.com/presentation/d/1VX0C22Zz-Fn4DwjSUJeqGFkdzR5ldR3R0u0EIKzOEOw/edit?usp=sharing) | [@hyunjongL](http://github.com/hyunjongL) |
 | 2021/03/14 | ✨cup-of-M1 💻 | | [presentation](https://docs.google.com/presentation/d/1EGxxnN1hNZcaa0nYuN8QMs2JXYNmujlA3z_89Q4iRyo/edit?usp=sharing) | [@Aningaaq](https://github.com/Aningaaq) |
 
 
