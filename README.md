@@ -14,6 +14,10 @@ Easy sips of stuffs a developer should know.
 | 2021/03/07 | ✨cup-of-accessibility✨🔍 | | [presentation](https://docs.google.com/presentation/d/1VX0C22Zz-Fn4DwjSUJeqGFkdzR5ldR3R0u0EIKzOEOw/edit?usp=sharing) | [@hyunjongL](http://github.com/hyunjongL) |
 | 2021/03/14 | ✨cup-of-M1✨💻 | | [presentation](https://docs.google.com/presentation/d/1EGxxnN1hNZcaa0nYuN8QMs2JXYNmujlA3z_89Q4iRyo/edit?usp=sharing) | [@Aningaaq](https://github.com/Aningaaq) |
 | 2021/03/28 | ✨cup-of-DeepFakes✨🔁 | | [presentation](https://docs.google.com/presentation/d/1XKKtKxf3ZaLqzyxlqjNJtyDHiVEkoYvRgFxjBjDgkTg/edit?usp=sharing) | [@hschoi1](https://github.com/hschoi1) |
+| 2021/04/04 | ✨cup-of-Docker✨🐳 | | [presentation](https://docs.google.com/presentation/d/1OotjiG87g1H6JTvBHuWw0RePp1LZVCQF0HR6hERLSig/edit?usp=sharing) | [@kyungyunlee](https://github.com/kyungyunlee) |
+| 2021/04/11 | ✨cup-of-shell & linux-file-hierarchy✨🐚 | | [presentation](https://docs.google.com/presentation/d/1IzZ_YyEMEp5PG2opP9mIBdAIDeUcuvLNs1g8nv72BS0/edit?usp=sharing) | [@chococigar](https://github.com/chococigar) |
+| 2021/04/18 | ✨cup-of-XAI (eXplainable AI)✨💡 | | [presentation](https://docs.google.com/presentation/d/14ZAPp3MV-ZzOXGhPoBQdBZP_54w7HvDoziItJPuM5uU/edit?usp=sharing) | [@Aningaaq](https://github.com/Aningaaq) |
+| 2021/04/25 | ✨cup-of-face-manipulative-detection✨🚔 | | [presentation](https://docs.google.com/presentation/d/1Hf2h4BEFUdAYMjpevz0KaaIknjExA6z29-aXeO49dV0/edit?usp=sharing) | [@hschoi1](a1) |
 
 
 ## Why we're doing this
