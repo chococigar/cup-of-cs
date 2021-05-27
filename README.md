@@ -49,5 +49,6 @@ Easy sips of stuffs a developer should know.
 * Hyunjong Lee ([@hyunjongL](http://github.com/hyunjongL))
 * Hyunsun Choi([@hschoi1](http://github.com/hschoi1))
 * Jiyoun Ha ([@chococigar](https://github.com/chococigar))
+* Juhee Lee (Juhee please make a github account)
 * Kyungyun Lee ([@kyungyunlee](https://github.com/kyungyunlee))
 * Namung Kim ([@Aningaaq](https://github.com/Aningaaq))
