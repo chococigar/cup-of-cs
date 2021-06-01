@@ -20,7 +20,7 @@ Easy sips of stuffs a developer should know.
 | 2021/04/25 | ✨cup-of-face-manipulative-detection✨🚔 | | [presentation](https://docs.google.com/presentation/d/1Hf2h4BEFUdAYMjpevz0KaaIknjExA6z29-aXeO49dV0/edit?usp=sharing) | [@hschoi1](https://github.com/hschoi1) |
 | 2021/05/09 | ✨cup-of-effective-modern-c++✨📙 | | [presentation](https://docs.google.com/presentation/d/1y9vYsItwK0LlfNZZtWlXH2_TBuPSBs2piCp4pUv7ig8/edit?usp=sharing) | [@juheeous](https://github.com/juheeous) |
 | 2021/05/16 | ✨cup-of-quantum-computing✨⚛️   | | [presentation](https://docs.google.com/presentation/d/1wM_vfzlWjy_BKdCTWjW97o_TY00r_gEBmQ1VCGT9SAE/edit?usp=sharing) | [@chococigar](https://github.com/chococigar) |
-| 2021/05/16 | ✨cup-of-quantum-computing✨⚛️   | | [presentation](https://docs.google.com/presentation/d/1wM_vfzlWjy_BKdCTWjW97o_TY00r_gEBmQ1VCGT9SAE/edit?usp=sharing) | [@chococigar](https://github.com/chococigar) | 2021/05/31 | ✨cup-of-cs-benchmarks✨🪑 | | [presentation](https://docs.google.com/presentation/d/1_ICdWFq5rgLbNJoI5rmCzEyoN0tsfEYh81nny3Bzk2k/edit?usp=sharing)| [@Aningaaq](https://github.com/Aningaaq) |
+| 2021/05/31 | ✨cup-of-cs-benchmarks✨🪑 | | [presentation](https://docs.google.com/presentation/d/1_ICdWFq5rgLbNJoI5rmCzEyoN0tsfEYh81nny3Bzk2k/edit?usp=sharing)| [@Aningaaq](https://github.com/Aningaaq) |
 
 
 ## Why we're doing this
