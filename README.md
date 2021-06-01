@@ -18,7 +18,7 @@ Easy sips of stuffs a developer should know.
 | 2021/04/11 | ✨cup-of-shell & linux-file-hierarchy✨🐚 | | [presentation](https://docs.google.com/presentation/d/1IzZ_YyEMEp5PG2opP9mIBdAIDeUcuvLNs1g8nv72BS0/edit?usp=sharing) | [@chococigar](https://github.com/chococigar) |
 | 2021/04/18 | ✨cup-of-XAI (eXplainable AI)✨💡 | | [presentation](https://docs.google.com/presentation/d/14ZAPp3MV-ZzOXGhPoBQdBZP_54w7HvDoziItJPuM5uU/edit?usp=sharing) | [@Aningaaq](https://github.com/Aningaaq) |
 | 2021/04/25 | ✨cup-of-face-manipulative-detection✨🚔 | | [presentation](https://docs.google.com/presentation/d/1Hf2h4BEFUdAYMjpevz0KaaIknjExA6z29-aXeO49dV0/edit?usp=sharing) | [@hschoi1](https://github.com/hschoi1) |
-| 2021/05/09 | ✨cup-of-effective-modern-c++✨📙 | | [presentation](https://docs.google.com/presentation/d/1y9vYsItwK0LlfNZZtWlXH2_TBuPSBs2piCp4pUv7ig8/edit?usp=sharing) | Juhee Lee |
+| 2021/05/09 | ✨cup-of-effective-modern-c++✨📙 | | [presentation](https://docs.google.com/presentation/d/1y9vYsItwK0LlfNZZtWlXH2_TBuPSBs2piCp4pUv7ig8/edit?usp=sharing) | [@juheeous](https://github.com/juheeous) |
 | 2021/05/16 | ✨cup-of-quantum-computing✨⚛️   | | [presentation](https://docs.google.com/presentation/d/1wM_vfzlWjy_BKdCTWjW97o_TY00r_gEBmQ1VCGT9SAE/edit?usp=sharing) | [@chococigar](https://github.com/chococigar) |
 
 
@@ -49,6 +49,6 @@ Easy sips of stuffs a developer should know.
 * Hyunjong Lee ([@hyunjongL](http://github.com/hyunjongL))
 * Hyunsun Choi([@hschoi1](http://github.com/hschoi1))
 * Jiyoun Ha ([@chococigar](https://github.com/chococigar))
-* Juhee Lee (Juhee please make a github account)
+* Juhee Lee ([@juheeous](https://github.com/juheeous))
 * Kyungyun Lee ([@kyungyunlee](https://github.com/kyungyunlee))
 * Namung Kim ([@Aningaaq](https://github.com/Aningaaq))
