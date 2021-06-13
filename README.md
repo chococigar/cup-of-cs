@@ -21,7 +21,6 @@ Easy sips of stuffs a developer should know.
 | 2021/05/09 | ✨cup-of-effective-modern-c++✨📙 | | [presentation](https://docs.google.com/presentation/d/1y9vYsItwK0LlfNZZtWlXH2_TBuPSBs2piCp4pUv7ig8/edit?usp=sharing) | [@juheeous](https://github.com/juheeous) |
 | 2021/05/16 | ✨cup-of-quantum-computing✨⚛️   | | [presentation](https://docs.google.com/presentation/d/1wM_vfzlWjy_BKdCTWjW97o_TY00r_gEBmQ1VCGT9SAE/edit?usp=sharing) | [@chococigar](https://github.com/chococigar) |
 | 2021/05/31 | ✨cup-of-cs-benchmarks✨🪑 | | [presentation](https://docs.google.com/presentation/d/1_ICdWFq5rgLbNJoI5rmCzEyoN0tsfEYh81nny3Bzk2k/edit?usp=sharing)| [@Aningaaq](https://github.com/Aningaaq) |
-[@chococigar](https://github.com/chococigar) |
 | 2021/06/07 | ✨cup-of-undergrad-math✨📐 | | [presentation](https://docs.google.com/presentation/d/1KTXf9n1UZ8kQe71ksvhSfA_b5JtI-C3GdCOYOL8YuyU/edit?usp=sharing)| [@hschoi1](https://github.com/hschoi1) |
 | 2021/06/13 | ✨cup-of-probability-and-statistics-for-swe✨📈 | | [presentation](https://docs.google.com/presentation/d/1ZDgdbJhz-7scG4vAU2Pit0b8T-DTs82RDbLLuaaHdC0/edit?usp=sharing)| [@juheeous](https://github.com/juheeous) |
 
