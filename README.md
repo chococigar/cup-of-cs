@@ -23,6 +23,9 @@ Easy sips of stuffs a developer should know.
 | 2021/05/31 | ✨cup-of-cs-benchmarks✨🪑 | | [presentation](https://docs.google.com/presentation/d/1_ICdWFq5rgLbNJoI5rmCzEyoN0tsfEYh81nny3Bzk2k/edit?usp=sharing)| [@Aningaaq](https://github.com/Aningaaq) |
 | 2021/06/07 | ✨cup-of-undergrad-math✨📐 | | [presentation](https://docs.google.com/presentation/d/1KTXf9n1UZ8kQe71ksvhSfA_b5JtI-C3GdCOYOL8YuyU/edit?usp=sharing)| [@hschoi1](https://github.com/hschoi1) |
 | 2021/06/13 | ✨cup-of-probability-and-statistics-for-swe✨📈 | | [presentation](https://docs.google.com/presentation/d/1ZDgdbJhz-7scG4vAU2Pit0b8T-DTs82RDbLLuaaHdC0/edit?usp=sharing)| [@juheeous](https://github.com/juheeous) |
+| 2021/07/05 | ✨cup-of-android✨💚 | | [presentation](https://docs.google.com/presentation/d/1yG5A0W8lMXhD-eLUWFQz3SpoIfK2y_SasckIdrF1gbQ/edit?usp=sharing)| [@chococigar](https://github.com/chococigar) |
+| 2021/07/12 | ✨cup-of-frontend✨👕 | | live demo | [@Aningaaq](https://github.com/Aningaaq) |
+| 2021/07/19 | ✨cup-of-eng-career-and-life✨ 🛣️ | | live discussion | everyone |
 
 
 ## Why we're doing this
