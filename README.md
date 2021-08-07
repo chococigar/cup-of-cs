@@ -27,6 +27,7 @@ Easy sips of stuffs a developer should know.
 | 2021/07/11 | ✨cup-of-frontend✨👕 | | live demo | [@Aningaaq](https://github.com/Aningaaq) |
 | 2021/07/18 | ✨cup-of-eng-career-and-life✨ 🛣️ | | live discussion | everyone |
 | 2021/07/25 | ✨cup-of-python✨🎀| | [presentation](https://drive.google.com/file/d/1uOypYa_fA_fU7hsSEd7adEFuUpL82ajo/view?usp=sharing) |[@hschoi1](https://github.com/hschoi1)   |
+| 2021/08/07 | ✨cup-of-bots✨| |  |
 
 
 ## Why we're doing this
