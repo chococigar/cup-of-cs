@@ -47,6 +47,7 @@ Easy sips of stuffs a developer should know.
 
 ## Guide for contributors
 
+
 ## References for choosing topics
 * [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [Teach yourself CS](https://teachyourselfcs.com/)
