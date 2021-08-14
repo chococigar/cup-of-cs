@@ -28,6 +28,40 @@ Easy sips of stuffs a developer should know.
 | 2021/07/18 | ✨cup-of-eng-career-and-life✨ 🛣️ | | live discussion | everyone |
 | 2021/07/25 | ✨cup-of-python✨🎀| | [presentation](https://drive.google.com/file/d/1uOypYa_fA_fU7hsSEd7adEFuUpL82ajo/view?usp=sharing) |[@hschoi1](https://github.com/hschoi1)   |
 | 2021/08/07 | ✨cup-of-design-tips-for-apps✨🎨| | [presentation](https://docs.google.com/presentation/d/1kM52cMmRQ_Ei53FfW1e_J-X5p9aSG9v5yGcQkbrhHHM/edit?usp=sharing)  |[@juheeous](https://github.com/juheeous) |
+| 2021/08/15 | ✨cup-of-network✨| | |[@chococigar](https://github.com/chococigar) |
+
+
+## Why we're doing this
+* To explain what we know / should know in our own words.
+    * To face what we know vs. don't know.
+* To understand things enough that we can hack / tweak / form opinions on stuffs.
+* tl;dr, eli5.
+
+## How to conduct a cup-of-cs
+* This is a safe space. No such thing as stupid questions.
+* Be casual and fun. As a rule, we include [🤪emojis](https://emojipedia.org/) in all our titles.
+* Everyone in cup-of-cs must present a topic on a round robin order.
+    * The presenter should announce their topic/agenda a few days in advance, and ask the team for any questions.
+    * Shoot for 30- minutes on the presentation. Save 10+ minutes for Q/A.
+    * At the end of the presention, get feedback and pick the next presenter.
+* Hold cup-of-cs periodically. (suggested: weekly, biweekly)
+
+## Guide for contributors
+
+
+## References for choosing topics
+* [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [Teach yourself CS](https://teachyourselfcs.com/)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+
+## Contributors
+* Hyunjong Lee ([@hyunjongL](http://github.com/hyunjongL))
+* Hyunsun Choi([@hschoi1](http://github.com/hschoi1))
+* Jiyoun Ha ([@chococigar](https://github.com/chococigar))
+* Juhee Lee ([@juheeous](https://github.com/juheeous))
+* Kyungyun Lee ([@kyungyunlee](https://github.com/kyungyunlee))
+* Namung Kim ([@Aningaaq](https://github.com/Aningaaq))
 
 
 ## Why we're doing this
