@@ -28,7 +28,7 @@ Easy sips of stuffs a developer should know.
 | 2021/07/18 | ✨cup-of-eng-career-and-life✨ 🛣️ | | live discussion | everyone |
 | 2021/07/25 | ✨cup-of-python✨🎀| | [presentation](https://drive.google.com/file/d/1uOypYa_fA_fU7hsSEd7adEFuUpL82ajo/view?usp=sharing) |[@hschoi1](https://github.com/hschoi1)   |
 | 2021/08/07 | ✨cup-of-design-tips-for-apps✨🎨| | [presentation](https://docs.google.com/presentation/d/1kM52cMmRQ_Ei53FfW1e_J-X5p9aSG9v5yGcQkbrhHHM/edit?usp=sharing)  |[@juheeous](https://github.com/juheeous) |
-| 2021/08/15 | ✨cup-of-network✨| | |[@chococigar](https://github.com/chococigar) |
+| 2021/08/15 | ✨cup-of-network✨| [presentation](https://docs.google.com/presentation/d/1CTDedrgeI0Ler_RMoEYBhC0QBzS-kY-r7kFK5qpBUsU/edit?usp=sharing)| |[@chococigar](https://github.com/chococigar) |
 
 
 ## Why we're doing this
