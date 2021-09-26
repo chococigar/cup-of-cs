@@ -31,6 +31,8 @@ Easy sips of stuffs a developer should know.
 | 2021/08/15 | ✨cup-of-network✨🌐| | [presentation](https://docs.google.com/presentation/d/1CTDedrgeI0Ler_RMoEYBhC0QBzS-kY-r7kFK5qpBUsU/edit?usp=sharing)|[@chococigar](https://github.com/chococigar) |
 | 2021/08/29 | ✨cup-of-bots✨🤖| | live demo| [@Aningaaq](https://github.com/Aningaaq)  |
 | 2021/09/05 | ✨cup-of-loggers✨✍️| | [presentation](https://drive.google.com/file/d/1rcEAArdfQHbLbM5o9qsgs27FEKZAUAZJ/view?usp=sharing)|[@hschoi1](https://github.com/hschoi1)  |
+| 2021/09/12 | ✨cup-of-bash-shell-script✨📜| | [presentation](https://docs.google.com/presentation/d/12V0FfeZWO_jZRLzdm5GP_MN14Km95ps5rfR6AyHJujc/edit?usp=sharing)|[@juheeous](https://github.com/juheeous) |
+| 2021/09/26 | ✨cup-of-flutter-and-mvc✨🐦| | [presentation](https://drive.google.com/file/d/1rcEAArdfQHbLbM5o9qsgs27FEKZAUAZJ/view?usp=sharing)|[@chococigar](https://github.com/chococigar)|
 
 
 
